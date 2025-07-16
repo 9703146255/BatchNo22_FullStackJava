@@ -1,0 +1,113 @@
+1)
+Input:
+    int _value = 7;
+    int $value = 3;
+    System.out.println(_value + $value);
+
+Output:
+    ?
+
+--------------------------------------------------
+
+2)
+Input:
+    int value = 5;
+    int Value = 15;
+    System.out.println(value * Value);
+
+Output:
+    ?
+
+--------------------------------------------------
+
+3)
+Input:
+    int if = 10;
+    System.out.println(if);
+
+Output:
+    ?
+
+--------------------------------------------------
+
+4)
+Input:
+    int class_ = 20;
+    System.out.println(class_);
+
+Output:
+    ?
+
+--------------------------------------------------
+
+5)
+Input:
+    int number1 = 5;
+    int 1number = 10;
+    System.out.println(number1 + 1number);
+
+Output:
+   ?
+
+--------------------------------------------------
+
+6)
+Input:
+    int total = 100;
+    {
+        int total = 50;
+        System.out.println(total);
+    }
+
+Output:
+    ?
+
+--------------------------------------------------
+
+7)
+Input:
+    int total = 100;
+    {
+        int t = 50;
+        System.out.println(t);
+    }
+    System.out.println(total);
+
+Output:
+    ?
+
+--------------------------------------------------
+
+8)
+Input:
+    public class Main {
+        static int x = 30;
+        public static void main(String[] args) {
+            int x = 15;
+            System.out.println(x);
+            System.out.println(Main.x);
+        }
+    }
+
+Output:
+    ?
+
+--------------------------------------------------
+
+9)
+Input:
+    int return = 5;
+    System.out.println(return);
+
+Output:
+    ?
+
+--------------------------------------------------
+
+10)
+Input:
+    int _ = 50;
+    System.out.println(_);
+
+Output:
+    ?

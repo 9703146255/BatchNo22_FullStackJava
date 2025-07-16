@@ -1,0 +1,818 @@
+Name 		:    	Mr.Thirumalesh
+Experience	 	: 	8+ Yrs
+Tech Stack		:	Core Java, Java8,J2EE,
+			Spring ,SpringBoot, Microservice
+			Html,Css,Js,Bootstrap,React,Angular
+			Aws(EC2,RDS,S3), Linux.
+			Oracle,Mysql,Mongo[crud]
+Position 		:   	Tech Lead(MNC)
+
+Service Based	:   	Infosys,Tcs,Cogingent......
+Product Based Company   :  	Flikart,Amazon,Google,Apple...
+Outsourcing Based Company : 
+			Accenture-10 Hired (1p-10lpa)
+			Amazon  - 10 Sent(30lpa)
+--------------------------------------------------------------------------------
+JAVA FULL STACK PROGRAM
+---------------------------------------------------------------------------------
+Pre-Requisites 	: 	Consontration, Dedication, Time.
+
+Duration		: 	5 to 6Months.
+
+mode		: 	Online/Offlice
+
+BackEnd Tech	: 	CoreJava, AdvJava(J2EE)
+			Mysql or Oracle or Mongodb
+
+FrameWorks 	: 	Spring,SpringBoot,Microservices
+
+FrontEnd Tech	: 	Html,Css,Js,Bootstrap,Angular,React.
+
+AI Content		: 	ChatGpt,DeepSeek,Gemini,Copilot.
+
+E-Commerce
+15+Tools
+GitHub
+Jira
+PostMan
+Swagger
+Docker
+K8S
+Jenkins
+Maven
+Gradle.....
+==================================
+Full Stack Java development
+==================================
+Full Stack Java = FrontEnd + Backend
+
+FrontEnd : 
+	-> User Interface of the application
+
+	->Customer can perform actions on the UI
+
+	-> Customer sending the request from frontend to backend
+
+BackEnd : -> Hidden Part of the application
+	-> It contains business logic
+		->User data validation logic
+
+		->Otp sending logic
+
+		->Sending email logic
+		
+		-> Pdf generater logic
+		
+	-> It is used to capture the request data
+
+	-> Once Capture the requst data it perform the validtions
+		Email,Phno...
+
+	-> It will send requst data to database
+
+Database : It is place where we can save the data permanently.
+===========================================================
+Language : It is a Mediater for the communication
+Human Language : 
+	one person wants to communicate with another person we need                   mediator called human language.
+	ex: Telugu,English,Hindi....
+
+Programming Language : If we want to communicate with computers we need one mediator called Programming language
+	ex: java,python,.net,php
+
+Java:
+-------
+->	Java is a programming language.
+
+-> 	Java introduced in the market at 1991.
+
+->	Java language developed by Sun Microsystem.
+
+->	James Gosling is lead for java language development.
+
+-> 	Oracle corporation aquire the java language 1995.
+
+-> 	Current version of java is java22.
+
+Java Division
+------------------
+->	1)J2SE
+->	2)J2EE
+->	3)J2ME
+
+1)J2SE :
+-----------
+	-> Java standard Edition.
+
+	-> By Using j2se we can develop standalone applicatoins.
+
+	-> Ex: Notepad,Calculator,Eclipse Ide...
+
+2)J2EE:
+----------
+	-> Java Enterprise Edition.
+
+	-> By using j2ee we can develop the web applications.
+
+	->Ex: Flipkart,Naukri,Amazon......
+
+3)J2ME:
+-----------
+	-> Java Micro/Mobile Edition.
+
+	-> By using j2me we can develop the mobile application
+
+	-> Watsapp app,Gmail app.....
+	
+
+Java Topics:
+----------------
+Introduction of java
+
+Installation of java
+
+Fundamental Concepts of java
+
+Arrays
+
+Strings
+
+Exception Handling
+
+Collections
+
+Java8
+
+JDK,JRE,JVM
+--------------------
+Jdk : 
+-------
+-> Java development kit
+
+-> It is providing set of tools to execute the java program/application.
+
+-> Physical existance.
+
+-> It Consists of jre & jvm
+
+Ex: javac,java,jconsole
+
+
+Jre :
+-----
+-> Java Runtime Environment
+
+-> It is providing the platform to execute the java program.
+
+-> Physical existance.
+
+-> Jre consists of jvm.
+
+-> Inside the jre we are having java classes & Libraries.
+
+JVM:
+-------
+-> Java virtual machine
+
+-> Jvm is not exist physically(Virtual)
+
+-> It is going to take the byte code and it will convert machine understandable format.
+
+-> When we wants to run the java program JVM going allocate the memory.
+
+-> When java code execution completed it is going to de-allocate the memory.
+
+-> It is having a capacity to read the byte code.
+
+-> Once Memory allocated garbage collector perform the clean up activities.
+
+
+----------------------------------------
+Structure of Java Program:
+----------------------------------------
+package statement(not mandaotory)
+
+import statements(not mandaotory)
+
+class declaration
+
+variables
+
+methods
+
+
+01]Write a java program and Print "Welcome to Version It" message on the console/cmd.
+
+Example: 1
+----------
+class  Demo
+{
+   	 public static void main(String[] args)
+	{
+	  System.out.println("Welcom to VersionIT");	
+	}
+}
+
+Compile: javac Demo.java
+Execute: java Demo
+
+
+Example: 2
+----------
+
+class  Employee
+{
+   	 public static void main(String[] args)
+	{
+	  System.out.println("Welcom to VersionIT");	
+	}
+}
+
+no of ways use:
+------------
+String[] args
+String args[]
+String... args
+
+right(Java is case sensitive)
+------------------------------
+Compile: javac Employee.java
+Execute: java Employee
+
+wrong
+------------------------------
+Compile: javac employee.java
+Execute: java employee
+----------------------------------------------------
+
+
+java program structure
+-----------------------
+
+process-1:
+----------------------
+Package statements(optional)
+Import statement(optional)
+Class declaration
+Variables
+Methods
+
+
+process-2:
+----------------------
+Package statements(optional)
+Import statement(optional)
+Class declaration(mandatory)
+Methods(optional)
+Variables(optional)
+
+
+Keywords:(53)
+---------
+-> Key Words are called a reserved words
+
+
+Translatros:
+------------
+Tranfering the data from one format to another format.
+
+Types of Translators:
+----------------------
+1) Interpreter
+2) Compilor
+3) Assembler
+
+1) Interpreter:
+---------------
+	->It is going to translate line by line.
+	->If we use the interprester it will take more time.
+	
+2) Compilor  :
+---------------
+	-> It is gonig to exectute the program all the lines at time.
+	-> If we use the compilor it will take less time.
+
+3) Assembler :
+--------------
+    -> It is used to transfer assembler code to machine understandabel format.
+	
+JVM Architecture:
+------------------
+1)ClassLoader Subsystem.
+2)Method area
+3)Heap Area
+4)Java Stack
+5)PC-Register
+6)Native Stack
+7)Execution Engine(Interpreter + JITC-Compilor)
+8)Native Interface
+9)Native library
+
+1)ClassLoader Subsystem.
+	-> It is used to load the .class files.
+2)Method area
+	-> It used to store class structure/class code. 
+3)Heap Area
+	-> It is used to store the objects.
+4)Java Stack:
+	-> It is used to the execution details.
+5)PC-Register:
+	-> It is used to store next line execution details.
+6)Netive Area:
+	-> Non-Java code will be stored.
+	-> JVM is developed by using c-language
+	-> so JVM can understand C-language also.
+	-> C-language is called as non-java code.
+7)Execution Engine:
+	-> It is used to execute the java code and provide the output
+	-> Execution Engine Having 2-Components
+		1)Interpreter
+		2)JIT Compilor.
+8)Native Library:
+	-> It is providing the libraries for non-java code(c-code).
+9)Native Interface:
+    -> It is used to write the non-java code(c-code).
+	-> For developing the non-java code native 
+		library provinding the libraries.
+
+Variables:
+----------
+	->Variables is used to store the data.
+	->We can implement variable in two steps.
+	 1)Declaration of variable
+	 ---------------------------
+	 syntax:
+			datatype variableName;
+			
+			int number;
+	2)Initiolization of variable
+	 ---------------------------
+	 syntax:
+			 variableName=value;
+			 
+				number=100;
+	
+	Note: we can directly do above both steps at a time also
+			ex:
+			Syntax :
+				datatype variablename=value;
+				int number=200;
+				String name="hari";
+				char grade='A';
+				float percentage=80.50f;
+				
+DataTypes :
+----------
+	It is used to specify, 
+	Which type of data we are going to store in the variable.
+	
+	Data Types Divided into 2-types:
+	---------------------------------
+	1)Premitive  Datatypes;
+	2)Non-Premitive(Reference) Datatype;
+	
+	1)Premitive  Datatypes;
+	-----------------------
+	1)Integral 		-> 	byte				->  1-Byte
+					->  short,				-> 	2-Byte
+					->  int,				-> 	4-Byte
+					->  long				-> 	8-Byte
+					   
+	2)Decimal		-> 	float			->   4-bytes
+					->	double 			-> 	 8-Bytes
+						
+						
+	2)Character     -> char				-> 	2-Byte	
+	3)Boolean		-> boolean			->  1-bit
+	
+	2)Non-Premitive(Reference) Datatype;
+	-------------------------------------
+	String
+	Array 
+	Object
+	Demo(Our classes)
+	
+	
+	
+	1)Premitive  Datatypes;
+	-----------------------
+	1)Integral 
+	2)Decimal
+	2)Character
+	3)Boolean
+			1)Integral 
+			----------
+			It is used to store the positive and negative numbers.
+			Integral data type having 4 types: byte,short,int,long
+				1)byte:
+				-------
+				It is used to store the integer/number data.
+				The size of byte is 1byte(8-bits).
+				
+				byte number=10;
+				
+				2)short
+				--------
+				It is used to store the integer/number data.
+				The size of short is 2-bytes.
+				
+				short number=200;
+				
+				3)int
+				----------
+				It is used to store the integer/number data.
+				The size of integer is 4-bytes.
+				
+				int number=500;
+				
+				4)long
+				----------
+				It is used to store the integer/number data.
+				The size of long is 8-bytes.
+				
+				int number=500;
+				
+				
+			2)Decimal
+					->It is having 2-types: float,double
+					 1)float:
+					 --------
+					-> It is used to store the decimal data.
+					->The size of long is 4-bytes.
+					
+					float number=500.80f;
+					
+					 2)double:
+					 --------
+					 -> It is used to store the decimal data.
+					 ->The size of long is 8-bytes.
+					 
+					 float number=500.80;
+			2)Character
+			-----------
+				It is used to stor the characters.
+				char: It is used to store one character at a time.
+				
+				 char firstletter='T';
+				
+			3)Boolean:
+			   It is used to store true or fasle.
+			   
+			   boolean isEmployee=true;
+				 
+2)Non-Premitive(Reference) Datatype;
+-------------------------------------		
+	String
+	Array 
+	Object
+	Demo(Our classes)
+	
+String:
+-------
+ it is nothing but group of characters.
+ 
+ String name="VersioinIT";
+ 
+Array:
+-----
+Arrays is used to store one or more values at time.
+
+
+String[] names={"hari","giri","charan"};
+int[] numbers={10,20,30};
+float[] numbers={10.0,20.20,30.21};
+boolean[] bool={true,false,false,true}
+
+int[] numbers=new int[10];
+int[] numbers=new int[100];
+ 
+ 
+ 
+ 
+ Object:
+ ----------------
+ It is a super class for all the classes.
+ For Pre-defined classess or Our defined classes also.
+ 
+ Object obj=new Object(){10,true,"hari"};
+ 
+ 
+//Integral data types
+		byte number1=10;
+		short number2=123;
+		int number3=1234;
+		long phno=987987987;
+		
+		
+		System.out.println("number1 : "+number1);
+		System.out.println("number2 : "+number2);
+		System.out.println("number3 : "+number3);
+		System.out.println("phno : "+phno);
+ 
+ //Decimal datatypes
+		float price=150.50f;
+		double percentage=50.5;
+		
+		System.out.println("price : "+price);
+		System.out.println("percentage : "+percentage);
+		
+		//Character
+		
+		char letter1='a';
+		char letter2='1';
+		char letter3='@';
+		char letter4='/';
+		char letter5='a';
+		
+		System.out.println("letter1 : "+letter1);
+		System.out.println("letter2 : "+letter2);
+		System.out.println("letter3 : "+letter3);
+		System.out.println("letter4 : "+letter4);
+		System.out.println("letter5 : "+letter5);
+		//Boolean 
+		
+		boolean isPass=true;
+		boolean isWin=false;
+		System.out.println("is Passed : "+isPass);
+		System.out.println("is WIN : "+isWin);
+		
+		
+		//String
+		String str="hari";
+		System.out.println(str);
+		
+		//Array
+		int[] nums2= new int[] {10,60,82,87,54};
+		int[] nums3= new int[2];
+		
+		
+		int[] nums1= {10,60,82,87};
+		System.out.println(nums1);
+		
+		for (int i = 0; i < nums1.length; i++) {
+			
+			System.out.println(nums1[i]);
+			
+		}
+ 
+
+Operators:
+---------
+Operator: It is a symbol it is used to perfom the operations 
+		  by using Operands/values.
+		  
+		  or
+		  
+		  It is a symbol it is used to perform the operations
+		  By using values.
+		  
+		  int a=10;
+		  int b=20;
+		  int c=a+b;
+		  
+		  
+1)Arithmetic operators(+,-,*,/,%)
+2)Logical Operators (And,Or,Not)-> &&,||,!
+3)Relational Operators(==,!=,<=,>=,<,>)	
+4)Assignment Operators(=)
+5)Unery Operators(pre-increment(++a,post-increment(a++),pre-decrement(--a),post-decrement(a--))
+6)new Operators(For creating object)
+7)dot(.) Operator
+8)Instance Operator  
+		  
+		  
+		  
+1) Arithmetic Operators(+,-,*,/,%):
+  It is used to perform the Arithmetic operations.
+	1)Addition
+	2)Substraction
+	3)Multiplicate
+	4)Division 
+	5)Remainder
+	
+2)Logical Operators (And,Or,Not)-> &&,||,!
+--------------------------------------------
+It is used to check more than one codindion.
+
+And -> &&(all contidtions true)-> true
+Or  -> ||(min one contidtions true)-> true
+Not -> !
+
+3)Relational Operators(==,!=,<=,>=,<,>)	
+--------------------------------------- 10,20
+It is used to establish relation between two values/Operands
+
+Ex:
+a==b
+
+
+4)Assignment Operators(=)
+--------------------------
+It is used to initiolize the data into the variable.
+Ex: int a=10;
+
+5)Unery Operators(pre-increment,post-increment,pre-decrement,post-decrement)
+-------------------------------------------------------
+int a=10;
+1)pre-increment(++a)
+2)post-increment(a++)
+3)pre-decrement(--a)
+4)post-decrement(a--)
+
+
+6)new Operators(For creating object)
+-------------------------------------
+It is used to create the objects.
+Once Object it will store in the heap area.
+
+Ex:
+
+Syntax: 
+	ClassName refVar=new ClassName();
+	Demo class
+	Employee class
+	
+	Employee emp1=new Employee();
+	Demo  demo1=new Demo();
+	
+7)dot(.) Operator:
+------------------
+It is used to call variables,methods.
+
+Ex: class Employee
+	{
+	 int empId=101;
+	 String name="Ram";
+	 
+	 void printEmployeeData()
+	 {
+	  System.out.println("Employee ID : "+empId)
+	  System.out.println("Employee Name : "+name)
+	 }
+		public static void main(String[] args)
+		{
+		Employee emp1=new Employee();
+		
+		emp1.printEmployeeData();
+		System.out.println(emp1.empId)
+		
+		}
+
+	}
+
+
+8)Instance Operator
+--------------------- 
+It is used to check weather refVaraible belongs to perticular Class or not
+
+String name="hari";
+BTech b=new BTech();
+
+Diplomo d=new Demplomo()
+
+
+if(d instanceOf BTech)
+{
+
+}
+
+if(b instanceOf Diplomo)
+{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+Debugging:
+---------
+4-Options for debugging
+------------------------
+1)F5-> Step Into
+2)F6-> Step Over
+3)F7-> Step Return
+4)F8-> Resume(switch from one debugging point to another debuggin point
+
+
+
+
+
+
+echo "# JFSC-22-CORE-JAVA-" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/9703146255/JFSC-22-CORE-JAVA-.git
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+		
+-----------------------------------------------------------
+Source Code(java code) management Softwares:
+-----------------------------------------------------------
+1)Gihub
+2)Gitlab
+3)BitBucket
+
+This is source code repository servers
+Who
+when
+why 
+what
+Project management tool.
+Tracking Tool
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/9703146255/Fullstack_Batch21.git
+git push -u origin main
+
+git init: It is used to intialize as a git working tree.
+		  It will generate .git
+
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+		 Class Will Be Start At 9.10Am
+	
+
+
+
+
+
+
+
+
+
+
+
+
+		      
+
+
+
+
+
+
+
+
+			
+			
+
+
+	
+
+
+
+
+
+
+		    
